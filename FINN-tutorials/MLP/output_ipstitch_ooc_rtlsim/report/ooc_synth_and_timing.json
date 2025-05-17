@@ -1,0 +1,19 @@
+{
+  "vivado_proj_folder": "/tmp/finn_dev_surajkarki/synth_out_of_context_tytnki86/results_finn_design_wrapper",
+  "LUT": 6575.0,
+  "LUTRAM": 42.0,
+  "FF": 7739.0,
+  "DSP": 0.0,
+  "BRAM": 22.0,
+  "BRAM_18K": 0.0,
+  "BRAM_36K": 22.0,
+  "URAM": 0.0,
+  "Carry": 290.0,
+  "WNS": 0.188,
+  "Delay": 0.188,
+  "vivado_version": 2022.2,
+  "vivado_build_no": 3671981.0,
+  "": 0,
+  "fmax_mhz": 101.91602119853242,
+  "estimated_throughput_fps": 1592437.831227069
+}

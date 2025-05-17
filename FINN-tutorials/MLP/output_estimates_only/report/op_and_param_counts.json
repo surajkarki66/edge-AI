@@ -1,0 +1,30 @@
+{
+  "MVAU_hls_0": {
+    "op_mac_1bx2b": 38400,
+    "param_weight_2b": 38400,
+    "param_threshold_9b": 64
+  },
+  "MVAU_hls_1": {
+    "op_mac_2bx2b": 4096,
+    "param_weight_2b": 4096,
+    "param_threshold_8b": 64
+  },
+  "MVAU_hls_2": {
+    "op_mac_2bx2b": 4096,
+    "param_weight_2b": 4096,
+    "param_threshold_7b": 64
+  },
+  "MVAU_hls_3": {
+    "op_mac_2bx2b": 64,
+    "param_weight_2b": 64,
+    "param_threshold_7b": 1
+  },
+  "total": {
+    "op_mac_1bx2b": 38400.0,
+    "param_weight_2b": 46656.0,
+    "param_threshold_9b": 64.0,
+    "op_mac_2bx2b": 8256.0,
+    "param_threshold_8b": 64.0,
+    "param_threshold_7b": 65.0
+  }
+}
